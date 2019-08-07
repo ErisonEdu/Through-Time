@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 6f02278d488c48241b736a92c9f9128f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8662559775772183650
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_0
+  - first:
+      213: 2954859442878196568
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_1
+  - first:
+      213: 8889059160566462667
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_2
+  - first:
+      213: -1389878787327219007
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_3
+  - first:
+      213: -791575271863422554
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_4
+  - first:
+      213: 3138332379847461072
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_5
+  - first:
+      213: -7342323426960740698
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_6
+  - first:
+      213: 16321147062192357
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_7
+  - first:
+      213: 6816559156385040277
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_8
+  - first:
+      213: 8630242376163345261
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_9
+  - first:
+      213: 1064370935722218757
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_10
+  - first:
+      213: -1921980351072724930
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_11
+  - first:
+      213: -177466075955407542
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_12
+  - first:
+      213: 2886083595865937454
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_13
+  - first:
+      213: 9096726101115039732
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_14
+  - first:
+      213: 6103364730056973494
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_15
+  - first:
+      213: 6993270349735358470
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_16
+  - first:
+      213: -5324363672534387475
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_17
+  - first:
+      213: -7281683547488528064
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_18
+  - first:
+      213: -4740347422865594903
+    second: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 700
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed6a90de97f2d498a3f03a3f2bf2c6
+      internalID: -8662559775772183650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 666
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bbf85c2ae98ab4d8727b8b05e55c6f
+      internalID: 2954859442878196568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 641
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf81abb36a39741a6d9966b64cacec
+      internalID: 8889059160566462667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 647
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7040752ad99a114690c0bd2137e8e7a
+      internalID: -1389878787327219007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedba7f6188ee9b408931932f96d7072
+      internalID: -791575271863422554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 610
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b6231189c61140a593adb328abf7f
+      internalID: 3138332379847461072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 443
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6a18662c136fe468a5c5a20109a360
+      internalID: -7342323426960740698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 446
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae213c395944df4383a9965b03c1229
+      internalID: 16321147062192357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1d4cf110686d45846251c3cb3ec2c
+      internalID: 6816559156385040277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 444
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf8484b2a1f214eafbb4a081a4ce13
+      internalID: 8630242376163345261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 441
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e04a234758d4da45837f8adf5ba7aae
+      internalID: 1064370935722218757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 563
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667a112d26538744876f4a26b8d2157
+      internalID: -1921980351072724930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 169
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c68f5337838ad44b5158dc2741d58a
+      internalID: -177466075955407542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 231
+        width: 173
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1051f6a0b1a08949815a0958bbda7bf
+      internalID: 2886083595865937454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 229
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b67a90e21b23542b9d257259aa63d5
+      internalID: 9096726101115039732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 223
+        width: 177
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7633526c99fb44483fa8d0d99a11b5
+      internalID: 6103364730056973494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a84dfd7e2ee404782a1d25cd19e608
+      internalID: 6993270349735358470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 29
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb4d5ac629ded4cbd5ccbbc9e3dcca
+      internalID: -5324363672534387475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 32
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875d3ff97c9019438d7183d4509c9d7
+      internalID: -7281683547488528064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c94967894a9554ea6bd7d204b05add
+      internalID: -4740347422865594903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
